@@ -1,0 +1,11 @@
+node_modules
+
+/.cache
+/build
+/dist
+/public/build
+/.mf
+.shopify
+
+# Local Netlify folder
+.netlify
